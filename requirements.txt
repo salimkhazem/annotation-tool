@@ -1,0 +1,23 @@
+# Core dependencies
+Flask
+Werkzeug
+numpy
+pillow
+torch
+torchvision
+websockify
+
+# SAM2 dependencies
+timm
+transformers
+opencv-python
+pycocotools
+safetensors
+
+# Azure OpenAI for legend generation
+openai
+
+# Utility libraries
+tqdm
+requests
+
